@@ -9,11 +9,12 @@ Friendhub uses a number of techs to work properly:
 - HTML - Frontend requirements
 - CSS - Styling
 - PHP - For Backend purposes
-- [jQuery] -  AJAX and updating without refreshing page
+- jQuery -  AJAX and updating without refreshing page
 > SERVER
-[WAMPServer - Database for tables
+WAMPServer - Database for tables
 
-And of course Friendhub itself is open source with a [public repository][dill] on GitHub.
+And of course Friendhub itself is open source with a [public repository][dill]
+on GitHub.
 
 
 Login Page
