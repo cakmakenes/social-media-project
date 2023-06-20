@@ -2,6 +2,21 @@
 
 This repository contains CTIS 256 Term Project.
 
+## Tech
+
+Friendhub uses a number of techs to work properly:
+> CLIENT
+- [HTML] - Frontend requirements
+- [CSS] - Styling
+- [PHP] - For Backend purposes
+- [jQuery] -  AJAX and updating without refreshing page
+> SERVER
+- [WAMPServer] - Database for tables
+
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
+
+
 Login Page
 ![login](https://github.com/cakmakenes/social-media-project/assets/106914735/af22d2c1-a377-4d0d-892d-b1cd95e447d6)
 
