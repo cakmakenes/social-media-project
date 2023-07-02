@@ -16,8 +16,8 @@ Friendhub uses a number of techs to work properly:
 [Demo for the project](https://friendhub.enescakmak.dev/login.php)
  you can use my account for testing
  username: enescakmak@gmail.com
- password: Enescakmak*1
- ` Some photos have been removed for privacy reasons`
+ password: Enescakmak*1 <br />
+ ` Some photos have been removed for privacy reasons `
 
 Login Page
 ![login](https://github.com/cakmakenes/social-media-project/assets/106914735/af22d2c1-a377-4d0d-892d-b1cd95e447d6)
