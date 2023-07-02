@@ -11,7 +11,10 @@ Friendhub uses a number of techs to work properly:
 - PHP - For Backend purposes
 - jQuery -  AJAX and updating without refreshing the page
 > SERVER
-- WAMPServer -  Database for user tables
+- AWS EC2 - Virtual server for hosting the website
+- AWS RDS - Storage for database
+- AWS S3 - Storage for profile pictures and posted photos 
+- DBeaver - to reach and modify the database
 
 ## [PROJECT DEMO](https://friendhub.enescakmak.dev/login.php)
 <hr>
